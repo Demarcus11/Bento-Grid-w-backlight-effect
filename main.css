@@ -1,6 +1,6 @@
 @font-face {
   font-family: "DMSans";
-  src: local("DMSans"), url("/assets/fonts/DMSans-VariableFont_opsz\,wght.ttf");
+  src: local("DMSans"), url("./assets/fonts/DMSans-VariableFont_opsz\,wght.ttf");
   font-weight: 100 1000;
   font-display: swap;
 }
